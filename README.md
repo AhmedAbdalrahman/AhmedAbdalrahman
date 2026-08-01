@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ahmed Abdalrahman 👋
 
-<!--
-**AhmedAbdalrahman/AhmedAbdalrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate specializing in Cybersecurity.
 
-Here are some ideas to get you started:
+📊 Currently pursuing a career in Data Analysis and Business Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Flask
+- MySQL
+
+## Featured Projects
+
+📈 Car Dealership Sales Analysis Dashboard (Excel)
+
+📊 Car Sales Performance Dashboard (Power BI)
+
+🛡️ NIDPS – Network Intrusion Detection and Prevention System
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/ahmed-abdalrahman-747899426?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- Email: ahmedswipe1077@gmail.com
