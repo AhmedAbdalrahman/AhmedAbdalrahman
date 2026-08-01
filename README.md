@@ -1,8 +1,8 @@
-# Hi, I'm Ahmed Abdalrahman 👋
+# Hi, I'm Ahmed Abdalrahman 
 
-🎓 Computer Science Graduate specializing in Cybersecurity.
+ Computer Science Graduate specializing in Cybersecurity.
 
-📊 Currently pursuing a career in Data Analysis and Business Intelligence.
+ Currently pursuing a career in Data Analysis and Business Intelligence.
 
 ## Technical Skills
 
@@ -15,11 +15,11 @@
 
 ## Featured Projects
 
-📈 Car Dealership Sales Analysis Dashboard (Excel)
+ Car Dealership Sales Analysis Dashboard (Excel)
 
-📊 Car Sales Performance Dashboard (Power BI)
+ Car Sales Performance Dashboard (Power BI)
 
-🛡️ NIDPS – Network Intrusion Detection and Prevention System
+ NIDPS – Network Intrusion Detection and Prevention System
 
 ## Connect with Me
 
